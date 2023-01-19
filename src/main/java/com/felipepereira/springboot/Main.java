@@ -1,13 +1,13 @@
-package com.desafiodio.orangetech.orangetech;
+package com.felipepereira.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Program {
+public class Main {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Program.class, args);
+		SpringApplication.run(Main.class, args);
 	}
 
 }

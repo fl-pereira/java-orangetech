@@ -1,10 +1,10 @@
-package com.desafiodio.orangetech.orangetech;
+package com.felipepereira.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrangetechApplicationTests {
+class MainTests {
 
 	@Test
 	void contextLoads() {
